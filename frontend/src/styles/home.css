@@ -1,0 +1,123 @@
+@import url("https://fonts.googleapis.com/css2?family=Abel&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kanit:wght@100&display=swap");
+
+/*CAROUSEL*/
+body {
+  background-color: #fff;
+}
+
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+
+  /* Center slide text vertically */
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+.carouselContainer {
+  width: 100%;
+  height: 70vh;
+}
+
+.imgCarousel {
+  object-fit: cover !important;
+}
+.coreanos {
+  object-position: 10% 25%;
+}
+
+.linkCarouselSup {
+  margin: 0 !important;
+  width: 100%;
+  height: 100%;
+}
+/*Fin de carousel*/
+
+/* Inicio de carousel de productos  */
+.tittlesCarouselProducts {
+  font-size: 2.3rem;
+  font-family: "Akshar", sans-serif;
+  margin: 1rem 0;
+}
+.mySwiperProducts {
+  padding: 0 0.5rem 1rem !important;
+}
+.containerCarouselProducts {
+  width: 100%;
+  min-height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 2rem;
+}
+
+.carouselProducts {
+  display: flex;
+  flex-direction: column;
+  width: 70%;
+  padding: 0.5rem;
+}
+
+.carouselProductsSlide {
+  height: 22rem;
+  border: solid 1px gray;
+  box-shadow: 4px 4px 1px 0 rgba(0, 0, 0, 0.2);
+  display: flex;
+  flex-direction: column;
+  background-size: cover;
+}
+
+.imageProductsCarousel {
+  width: 11rem !important;
+  height: 15rem !important;
+  object-fit: contain !important;
+}
+
+.productNameCarousel {
+  font-size: 1.7rem;
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+.productDescriptionCarousel {
+  font-size: 0.9rem;
+  font-family: "Kanit", sans-serif;
+}
+
+.productPriceCarousel {
+  font-family: "Roboto Condensed", sans-serif;
+  color: #7e8287;
+}
+
+.linksCarousel {
+  text-decoration: none !important;
+  color: inherit;
+}
+
+@media (max-width: 1024px) {
+  .carouselContainer {
+    height: 45vh;
+  }
+}
