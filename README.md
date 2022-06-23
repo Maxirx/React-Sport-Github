@@ -1,11 +1,11 @@
 # Proyecto en Colaboracion/ Trabajo en equipo  en React en stack MERN  
 ### Realizado con 
-Franscico Sabato (SC/TL) https://github.com/FLS08
-Renzo Becari https://github.com/Ren991
-Alan Torrez https://github.com/Alanezequiel01
-Martin Viola https://github.com/MartinViola
-Javi Mujica https://github.com/jamujica6
-David Cruz https://github.com/deonwilson
+###### Franscico Sabato (SC/TL) https://github.com/FLS08
+###### Renzo Becari https://github.com/Ren991
+###### Alan Torrez https://github.com/Alanezequiel01
+###### Martin Viola https://github.com/MartinViola
+###### Javi Mujica https://github.com/jamujica6
+###### David Cruz https://github.com/deonwilson
 
 
 ## Available Scripts
