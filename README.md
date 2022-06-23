@@ -1,4 +1,5 @@
-# Proyecto en Colaboracion/ Trabajo en equipo  en React en stack MERN  Realizado con 
+# Proyecto en Colaboracion/ Trabajo en equipo  en React en stack MERN  
+Realizado con 
 Franscico Sabato (SC/TL) https://github.com/FLS08
 Renzo Becari https://github.com/Ren991
 Alan Torrez https://github.com/Alanezequiel01
